@@ -1,0 +1,26 @@
+{
+  "name": "httpserver",
+  "version": "0.1.0",
+  "description": "A light http server handling file and generic handlers attached to regex pattern",
+  "main": "HTTPserver.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horfee/node-httpserver.git"
+  },
+  "keywords": [
+    "Node.js",
+    "WebSocket",
+    "HTTP",
+    "Server"
+  ],
+  "author": "Horfee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horfee/node-httpserver/issues"
+  },
+  "homepage": "https://github.com/horfee/node-httpserver#readme",
+  "dependencies": {}
+}
